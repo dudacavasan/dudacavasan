@@ -1,16 +1,65 @@
-## Hi there 👋
+# 🌸 Oii, eu sou Maria!
 
-<!--
-**dudacavasan/dudacavasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+Bem-vindo(a) ao meu perfil 💕
+```
 
-Here are some ideas to get you started:
+🐍 Estudando Python  
+📚 Atualmente no módulo 2 do curso  
+💻 Aprendendo programação e criando projetos    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💖 Tecnologias
+
+<div style="display: inline_block"><br>
+
+<img align="center" alt="Python" height="60" width="70"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/dudacavasan">
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=dudacavasan&show_icons=true&theme=rose_pine&hide_border=true"/>
+
+
+</a>
+
+</div>
+
+---
+
+## 🌷 Sobre mim
+
+- 🌸 Tenho 15 anos
+- 🐍 Estudando Python
+- 📚 No módulo 2 do curso
+- ✨ Sempre aprendendo coisas novas
+
+---
+
+## 🌐 Redes Sociais
+
+<div>
+
+<a href="https://instagram.com/m_cavasan" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-ffb6c1?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ Obrigada por visitar meu perfil ✨
+
+</div>
