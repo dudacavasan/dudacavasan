@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1zazRlc3k0aHd6NDdsOGVsNjZvcXJ2dDgxNGcyeXY0Y2FzcWN0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/p0Zgq6zRrjiak/giphy.gif" width="500px"/>
+
+</div>
+
 # 🌸 Oii, eu sou Maria!
 
 ```python
