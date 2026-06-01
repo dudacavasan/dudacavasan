@@ -45,10 +45,16 @@ src="https://github-readme-stats.vercel.app/api?username=dudacavasan&show_icons=
 
 ## 🌷 Sobre mim
 
-- 🌸 Tenho 15 anos
-- 🐍 Estudando Python
-- 📚 No módulo 2 do curso
-- ✨ Sempre aprendendo coisas novas
+- Me chamo Maria Eduarda Ribeiro Cavasan, estudante do 1º ano do Ensino Médio no 
+  C.M. Manoel Jacob Cremm,em Santana de Parnaíba - SP.
+- Apaixonada por tecnologia, atualmente estou desenvolvendo minhas habilidades 
+  em programação com Python, lógica de programação e resolução de problemas. 
+- Gosto de transformar aprendizado em prática, criando projetos que me desafiam a 
+  evoluir constantemente.
+- Este GitHub reúne minha trajetória na tecnologia, compartilhando estudos, 
+  projetos e minha evolução como futura desenvolvedora. 
+- Estou sempre buscando aprender novas ferramentas, expandir meus conhecimentos
+  e criar soluções através da programação.
 
 ---
 
