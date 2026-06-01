@@ -4,19 +4,19 @@
 
 </div>
 
-# 🌸 Oii, eu sou Maria!
+# 🩰 Oii, eu sou Maria!
 
 ```python
 Bem-vindo(a) ao meu perfil 💕
 ```
 
-🐍 Estudando Python  
+💬 Estudando Python  
 📚 Atualmente no módulo 2 do curso  
 💻 Aprendendo programação e criando projetos    
 
 ---
 
-## 💖 Tecnologias
+## 🩷 Tecnologias
 
 <div style="display: inline_block"><br>
 
@@ -58,7 +58,7 @@ src="https://github-readme-stats.vercel.app/api?username=dudacavasan&show_icons=
 
 ---
 
-## 🌐 Redes Sociais
+## 📱 Redes Sociais
 
 <div>
 
